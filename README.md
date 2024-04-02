@@ -41,7 +41,6 @@
 
 ✌️ &emsp; Enjoy sharing knowledge <br/><br/>
 ❤️ &emsp; Love writing code, learning new features <br/><br/>
-🎨 &emsp; Chief Operation Drone Show Light<br/><br/>
 💬 &emsp; Ask me about anything [here](https://github.com/rabiebn/rabiebn/issues)
 
 </p>
@@ -80,13 +79,13 @@
 
 <p align="center">
   <a href="https://github.com/rabiebn">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabiebn&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabiebn&theme=radical" alt="Rabie's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/rabiebn"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rabiebn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/rabiebn"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rabiebn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/rabiebn"><img alt="Rabie's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rabiebn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/rabiebn"><img alt="Rabie's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rabiebn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
